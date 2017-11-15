@@ -13,7 +13,7 @@
         android:label="Tests for test.com.jinyue"
         android:targetPackage="test.com.jinyue" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
