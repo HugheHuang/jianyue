@@ -1,31 +1,4 @@
-#Tue Nov 14 12:43:53 CST 2017
-renamed.9=classes7.dex
-renamed.8=classes8.dex
-renamed.7=classes9.dex
-renamed.6=classes6.dex
-renamed.5=classes10.dex
-renamed.4=classes4.dex
-renamed.3=classes.dex
-renamed.2=classes2.dex
-base.9=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_80a34806895ec396e81fb709d39adefc19e05aad
-renamed.1=classes5.dex
-base.8=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0a9a29b05ea657b11ddbbd8a7fc0de63f83019c
-renamed.0=classes3.dex
-base.7=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d02471b2195a1aea97f9eba2799bbc550e87a502
-base.6=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_786105bdc088ef56c87270d2136cc6de5122bb4b
-base.5=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_f0652034554327c7c20ddf69753c230e59d7ef89
-base.4=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3c05364edf162649ab5c4deea4a25088eefc1b5e
-base.3=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_213a9a4f1000a8185e18340d4794e1507037822b
-base.2=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2af583063338f8f78257091444e6fa5af51b45ae
-base.1=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_461a551b8314663d557fb7da03ca6682ebd328eb
-base.0=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3c01457a0f674453cc28616f0e1b305a213ecb80
-file.9=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_80a34806895ec396e81fb709d39adefc19e05aad\\classes.dex
-file.8=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0a9a29b05ea657b11ddbbd8a7fc0de63f83019c\\classes.dex
-file.7=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d02471b2195a1aea97f9eba2799bbc550e87a502\\classes.dex
-file.6=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_786105bdc088ef56c87270d2136cc6de5122bb4b\\classes.dex
-file.5=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_f0652034554327c7c20ddf69753c230e59d7ef89\\classes.dex
-file.4=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3c05364edf162649ab5c4deea4a25088eefc1b5e\\classes.dex
-file.3=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_213a9a4f1000a8185e18340d4794e1507037822b\\classes.dex
-file.2=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2af583063338f8f78257091444e6fa5af51b45ae\\classes.dex
-file.1=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_461a551b8314663d557fb7da03ca6682ebd328eb\\classes.dex
-file.0=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3c01457a0f674453cc28616f0e1b305a213ecb80\\classes.dex
+#Wed Nov 15 11:59:35 CST 2017
+base.0=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.0=classes.dex
+file.0=C\:\\Users\\86758\\AndroidStudioProjects\\JinYue\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex
